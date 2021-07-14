@@ -1,0 +1,1 @@
+reads from a text file that has the entire bible, adds the words to a binary search tree and counts the appearance of each word.

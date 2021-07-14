@@ -1,0 +1,4 @@
+The Driver class runs the hash table autocorrect.
+The DemoMetaphone3 class runs the linked list autocorrect.
+
+The Metaphone3 class is not included due to its large size.
