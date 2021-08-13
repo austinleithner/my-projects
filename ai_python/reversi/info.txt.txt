@@ -1,0 +1,1 @@
+Inplemented a minimax algorithm to an AI agent to play reversi against a random agent, a human, and itself.

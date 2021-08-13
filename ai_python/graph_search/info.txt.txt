@@ -1,0 +1,1 @@
+Breadth first, uniform cost, and A* searches are used to search a map in search_submission.
